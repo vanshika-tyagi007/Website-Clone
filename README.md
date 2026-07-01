@@ -1,4 +1,4 @@
-# 🍎 Apple iPhone 17 Website Clone
+# Apple iPhone 17 Website Clone
 
 A modern, responsive clone of the Apple iPhone 17 landing page built to practice advanced frontend development, responsive layouts, animations, and premium UI design. This project recreates the look and feel of Apple's product showcase while serving as a portfolio and learning project. It is not affiliated with or endorsed by Apple. The design is inspired by Apple's official iPhone 17 website. :contentReference[oaicite:0]{index=0}
 
